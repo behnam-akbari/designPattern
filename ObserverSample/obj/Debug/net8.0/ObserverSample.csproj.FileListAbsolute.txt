@@ -1,0 +1,14 @@
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\bin\Debug\net8.0\ObserverSample.exe
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\bin\Debug\net8.0\ObserverSample.deps.json
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\bin\Debug\net8.0\ObserverSample.runtimeconfig.json
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\bin\Debug\net8.0\ObserverSample.dll
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\bin\Debug\net8.0\ObserverSample.pdb
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.AssemblyInfoInputs.cache
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.AssemblyInfo.cs
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.csproj.CoreCompileInputs.cache
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.dll
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\refint\ObserverSample.dll
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.pdb
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ObserverSample.genruntimeconfig.cache
+C:\Users\b.akbari\Desktop\DesignPattern\ObserverSample\obj\Debug\net8.0\ref\ObserverSample.dll

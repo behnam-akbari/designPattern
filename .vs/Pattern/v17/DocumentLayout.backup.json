@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\conceptual\\doghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\conceptual\\doghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\conceptual\\squirrelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\conceptual\\squirrelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\conceptual\\monkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\conceptual\\monkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\conceptual\\abstracthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\conceptual\\abstracthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\chainofresponsibility\\conceptual\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299B9E9-D559-4DC9-96C4-EC28AF6282F3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\conceptual\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\decoratorsample\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618313EC-7BD7-4FC4-8F1B-71DBFC00A6F1}|DecoratorSample\\DecoratorSample.csproj|solutionrelative:decoratorsample\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\observersample\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|solutionrelative:observersample\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\observersample\\models\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|solutionrelative:observersample\\models\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\observersample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|solutionrelative:observersample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\observersample\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|solutionrelative:observersample\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\observersample\\observer\\concreteobserverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|solutionrelative:observersample\\observer\\concreteobserverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|c:\\users\\b.akbari\\desktop\\designpattern\\observersample\\observer\\concreteobservera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DABA8-10DE-4484-885B-75A83F3597FE}|ObserverSample\\ObserverSample.csproj|solutionrelative:observersample\\observer\\concreteobservera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogHandler.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\DogHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Conceptual\\DogHandler.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\DogHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Conceptual\\DogHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:57:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SquirrelHandler.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\SquirrelHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Conceptual\\SquirrelHandler.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\SquirrelHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Conceptual\\SquirrelHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:56:07.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonkeyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\MonkeyHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Conceptual\\MonkeyHandler.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\MonkeyHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Conceptual\\MonkeyHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:55:49.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Client.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Client.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Client.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:31:05.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractHandler.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\AbstractHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Conceptual\\AbstractHandler.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\AbstractHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Conceptual\\AbstractHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:27:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHandler.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\IHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Conceptual\\IHandler.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Conceptual\\IHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Conceptual\\IHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:26:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:24:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\models\\ISubject.cs",
+              "RelativeDocumentMoniker": "ObserverSample\\models\\ISubject.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\models\\ISubject.cs",
+              "RelativeToolTip": "ObserverSample\\models\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:31:24.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\models\\Subject.cs",
+              "RelativeDocumentMoniker": "ObserverSample\\models\\Subject.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\models\\Subject.cs",
+              "RelativeToolTip": "ObserverSample\\models\\Subject.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:31:10.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverSample\\Program.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Program.cs",
+              "RelativeToolTip": "ObserverSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:30:08.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConcreteComponent.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\ConcreteComponent.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\ConcreteComponent.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\ConcreteComponent.cs",
+              "RelativeToolTip": "DecoratorSample\\ConcreteComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:15:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Component.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\Component.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Component.cs",
+              "RelativeToolTip": "DecoratorSample\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:09:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Decorator.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\Decorator.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Decorator.cs",
+              "RelativeToolTip": "DecoratorSample\\Decorator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:09:31.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\Program.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Program.cs",
+              "RelativeToolTip": "DecoratorSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:08:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Client.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\Client.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\Client.cs",
+              "RelativeToolTip": "DecoratorSample\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:08:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcreteDecoratorB.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\ConcreteDecoratorB.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\ConcreteDecoratorB.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\ConcreteDecoratorB.cs",
+              "RelativeToolTip": "DecoratorSample\\ConcreteDecoratorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:09:01.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConcreteDecoratorA.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\ConcreteDecoratorA.cs",
+              "RelativeDocumentMoniker": "DecoratorSample\\ConcreteDecoratorA.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\DecoratorSample\\ConcreteDecoratorA.cs",
+              "RelativeToolTip": "DecoratorSample\\ConcreteDecoratorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:09:16.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "ObserverSample\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Observer\\IObserver.cs",
+              "RelativeToolTip": "ObserverSample\\Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:31:40.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConcreteObserverB.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Observer\\ConcreteObserverB.cs",
+              "RelativeDocumentMoniker": "ObserverSample\\Observer\\ConcreteObserverB.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Observer\\ConcreteObserverB.cs",
+              "RelativeToolTip": "ObserverSample\\Observer\\ConcreteObserverB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:32:59.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConcreteObserverA.cs",
+              "DocumentMoniker": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Observer\\ConcreteObserverA.cs",
+              "RelativeDocumentMoniker": "ObserverSample\\Observer\\ConcreteObserverA.cs",
+              "ToolTip": "C:\\Users\\b.akbari\\Desktop\\DesignPattern\\ObserverSample\\Observer\\ConcreteObserverA.cs",
+              "RelativeToolTip": "ObserverSample\\Observer\\ConcreteObserverA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:36:40.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

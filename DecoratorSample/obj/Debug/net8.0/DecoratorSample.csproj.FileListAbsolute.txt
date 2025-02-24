@@ -1,0 +1,14 @@
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\bin\Debug\net8.0\DecoratorSample.exe
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\bin\Debug\net8.0\DecoratorSample.deps.json
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\bin\Debug\net8.0\DecoratorSample.runtimeconfig.json
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\bin\Debug\net8.0\DecoratorSample.dll
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\bin\Debug\net8.0\DecoratorSample.pdb
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.AssemblyInfoInputs.cache
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.AssemblyInfo.cs
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.csproj.CoreCompileInputs.cache
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.dll
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\refint\DecoratorSample.dll
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.pdb
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\DecoratorSample.genruntimeconfig.cache
+C:\Users\b.akbari\Desktop\DesignPattern\DecoratorSample\obj\Debug\net8.0\ref\DecoratorSample.dll

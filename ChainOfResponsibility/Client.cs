@@ -1,0 +1,25 @@
+﻿using ChainOfResponsibility.Conceptual;
+namespace ChainOfResponsibility
+{
+    class Client
+    {
+        public static void ClientCode(AbstractHandler handler)
+        {
+            foreach (var food in new List<string> { "Nut", "Banana", "Cup of coffee", "MeatBall" })
+            {
+                Console.WriteLine($"Client: Who wants a {food}?");
+
+                var result = handler.Handle(food);
+
+                if (result != null)
+                {
+                    Console.Write($"   {result}");
+                }
+                else
+                {
+                    Console.WriteLine($"   {food} was left untouched.");
+                }
+            }
+        }
+    }
+}
